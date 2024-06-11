@@ -1,0 +1,12 @@
+{
+  "name": "aoc2020",
+  "version": "1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc; node "
+  },
+  "dependencies": {
+    "typescript": "^4.1.2"
+  }
+}
